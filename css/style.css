@@ -223,19 +223,19 @@
     }
 
     .button button {
-        background-color: #9677b3;
+        background-color: #00b7ff;
         border-radius: 5px;
         padding: 18px 30px;
-        border-color: white;
+        border-color: rgb(0, 0, 0);
         border-style: solid;
-        color: white;
+        color: rgb(255, 255, 255);
         font-family: Principal-Bold;
         font-size: 15;
     }
 
     .button button:hover {
         background-color: #00b7ff;
-        border-color: #000000;
+        border-color: #ffffff;
         color: white;
 
     }
