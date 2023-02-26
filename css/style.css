@@ -1,13 +1,13 @@
     @font-face {
         font-family: Principal;
-        src: url(../../css/fonts/Roboto/Roboto-Regular.ttf);
+        src: url(./fonts/Roboto/Roboto-Regular.ttf);
     }
 
     @font-face {
         font-family: Principal-Bold;
-        src: url(../../css/fonts/Roboto/Roboto-Black.ttf);
+        src: url(./fonts/Roboto/Roboto-Black.ttf);
         font-weight: bold;
-    }
+    }   
 
     body {
         margin: 0 auto;
